@@ -1,3 +1,2 @@
 # LINUX-BASICS
 CD
-bb
